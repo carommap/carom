@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carom/static/css/main.b415ddff.css",
-    "main.js": "/carom/static/js/main.16c5cd03.js",
+    "main.js": "/carom/static/js/main.92040e55.js",
     "static/js/728.874c7bdf.chunk.js": "/carom/static/js/728.874c7bdf.chunk.js",
     "static/js/319.04789fec.chunk.js": "/carom/static/js/319.04789fec.chunk.js",
     "static/js/338.271da0df.chunk.js": "/carom/static/js/338.271da0df.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/social-google.svg": "/carom/static/media/social-google.a57081bd95c2519caad91216a8dba3ad.svg",
     "static/media/earning.svg": "/carom/static/media/earning.00f461a5c235604f1375d5e59ee3e093.svg",
     "main.b415ddff.css.map": "/carom/static/css/main.b415ddff.css.map",
-    "main.16c5cd03.js.map": "/carom/static/js/main.16c5cd03.js.map",
+    "main.92040e55.js.map": "/carom/static/js/main.92040e55.js.map",
     "728.874c7bdf.chunk.js.map": "/carom/static/js/728.874c7bdf.chunk.js.map",
     "319.04789fec.chunk.js.map": "/carom/static/js/319.04789fec.chunk.js.map",
     "338.271da0df.chunk.js.map": "/carom/static/js/338.271da0df.chunk.js.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.b415ddff.css",
-    "static/js/main.16c5cd03.js"
+    "static/js/main.92040e55.js"
   ]
 }
