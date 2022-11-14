@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/carom/static/css/main.b415ddff.css",
+    "main.js": "/carom/static/js/main.16c5cd03.js",
+    "static/js/728.874c7bdf.chunk.js": "/carom/static/js/728.874c7bdf.chunk.js",
+    "static/js/319.04789fec.chunk.js": "/carom/static/js/319.04789fec.chunk.js",
+    "static/js/338.271da0df.chunk.js": "/carom/static/js/338.271da0df.chunk.js",
+    "static/js/720.726aba02.chunk.js": "/carom/static/js/720.726aba02.chunk.js",
+    "static/js/80.7e23baec.chunk.js": "/carom/static/js/80.7e23baec.chunk.js",
+    "static/js/584.1d7c993d.chunk.js": "/carom/static/js/584.1d7c993d.chunk.js",
+    "static/js/773.5d6a53ce.chunk.js": "/carom/static/js/773.5d6a53ce.chunk.js",
+    "static/js/418.ebef4aea.chunk.js": "/carom/static/js/418.ebef4aea.chunk.js",
+    "static/js/170.c80ec52c.chunk.js": "/carom/static/js/170.c80ec52c.chunk.js",
+    "static/js/710.b1219fe1.chunk.js": "/carom/static/js/710.b1219fe1.chunk.js",
+    "static/js/141.907dad1d.chunk.js": "/carom/static/js/141.907dad1d.chunk.js",
+    "static/media/user-round.svg": "/carom/static/media/user-round.27fe79b102ea6aad2f60e66cff82818d.svg",
+    "index.html": "/carom/index.html",
+    "static/media/social-google.svg": "/carom/static/media/social-google.a57081bd95c2519caad91216a8dba3ad.svg",
+    "static/media/earning.svg": "/carom/static/media/earning.00f461a5c235604f1375d5e59ee3e093.svg",
+    "main.b415ddff.css.map": "/carom/static/css/main.b415ddff.css.map",
+    "main.16c5cd03.js.map": "/carom/static/js/main.16c5cd03.js.map",
+    "728.874c7bdf.chunk.js.map": "/carom/static/js/728.874c7bdf.chunk.js.map",
+    "319.04789fec.chunk.js.map": "/carom/static/js/319.04789fec.chunk.js.map",
+    "338.271da0df.chunk.js.map": "/carom/static/js/338.271da0df.chunk.js.map",
+    "720.726aba02.chunk.js.map": "/carom/static/js/720.726aba02.chunk.js.map",
+    "80.7e23baec.chunk.js.map": "/carom/static/js/80.7e23baec.chunk.js.map",
+    "584.1d7c993d.chunk.js.map": "/carom/static/js/584.1d7c993d.chunk.js.map",
+    "773.5d6a53ce.chunk.js.map": "/carom/static/js/773.5d6a53ce.chunk.js.map",
+    "418.ebef4aea.chunk.js.map": "/carom/static/js/418.ebef4aea.chunk.js.map",
+    "170.c80ec52c.chunk.js.map": "/carom/static/js/170.c80ec52c.chunk.js.map",
+    "710.b1219fe1.chunk.js.map": "/carom/static/js/710.b1219fe1.chunk.js.map",
+    "141.907dad1d.chunk.js.map": "/carom/static/js/141.907dad1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b415ddff.css",
+    "static/js/main.16c5cd03.js"
+  ]
+}
