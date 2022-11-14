@@ -15,11 +15,11 @@ const AuthenticationRoutes = {
     element: <MinimalLayout />,
     children: [
         {
-            path: '/carom/login',
+            path: 'login',
             element: <AuthLogin3 />
         },
         {
-            path: '/carom/register',
+            path: 'register',
             element: <AuthRegister3 />
         }
     ]
